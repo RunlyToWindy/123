@@ -1,0 +1,28 @@
+{
+    "personal": {
+      "name": "Екатерина Жукова",
+      "email": "kuzina1117@mail.ru",
+      "phone": "+7 (916) 817-67-48",
+      "address": "г. Москва, ул. Ивана Франко, д. 20, к. 1",
+      "photo": "https://main-cdn.sbermegamarket.ru/big1/hlr-system/241/032/782/112/817/36/100045249601b0.jpg"
+    },
+    "experience": [
+      {
+        "position": "Отсутствует",
+        "company": "-",
+        "period": "-",
+        "description": "-"
+      }
+    ],
+    "education": [
+      {
+        "degree": "Бакалавр",
+        "institution": "Государственный университет управления (ГУУ)",
+        "year": 2027
+      }
+    ],
+    "hobbies": [
+      "Программирование",
+      "Чтение книг"
+    ]
+  }
